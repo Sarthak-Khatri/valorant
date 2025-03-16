@@ -21,9 +21,4 @@ This tribute page showcases the different agents from **VALORANT**, divided into
 - **Responsive Design**: Optimized for different screen sizes
 - **Image Maps**: Interactive links on agent images
 
-## Installation
 
-1. Clone the repository to your local machine.
-   
-   ```bash
-   git clone https://github.com/your-username/valorant-tribute-page.git
